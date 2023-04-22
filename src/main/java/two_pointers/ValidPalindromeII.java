@@ -6,10 +6,8 @@ package two_pointers;
  *
  */
 
-/**
- * It uses two pointers, one starting from the left and one from the right, and checks if each character at the corresponding indices is the same.
- * If they are not the same, it checks if the substring after removing the left character or right character is
- */
+// It uses two pointers, one starting from the left and one from the right, and checks if each character at the corresponding indices is the same.
+// If they are not the same, it checks if the substring after removing the left character or right character is
 public class ValidPalindromeII {
 
     public static void main(String[] args) {
