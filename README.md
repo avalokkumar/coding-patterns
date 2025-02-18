@@ -35,7 +35,8 @@ This repository contains various Java programs for solving coding problems. The 
 
 * [**two_pointers**](src/main/java/two_pointers)
     * This folder contains problems and solutions that utilize two pointers technique.
-
+* [**subsets**](src/main/java/subsets)
+    * This folder contains problems and solutions related to generating subsets of a given set.
 
 ## Contributing
 
