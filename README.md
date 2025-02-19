@@ -37,6 +37,8 @@ This repository contains various Java programs for solving coding problems. The 
     * This folder contains problems and solutions that utilize two pointers technique.
 * [**subsets**](src/main/java/subsets)
     * This folder contains problems and solutions related to generating subsets of a given set.
+* [**greedy**](src/main/java/greedy_technique)
+    * This folder contains problems and solutions related to greedy algorithms.
 
 ## Contributing
 
